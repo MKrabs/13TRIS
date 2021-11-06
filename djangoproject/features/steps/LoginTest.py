@@ -16,7 +16,7 @@ def step_impl(context):
     """
     :type context: behave.runner.Context
     """
-    assert True
+    assert False
 
 
 @when("I fill in the correct credentials")
